@@ -56,3 +56,9 @@ button:hover {
     font-weight: bold;
     color: #008CBA;
 }
+
+h3 {
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: cadetblue;
+}
